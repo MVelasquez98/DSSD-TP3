@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2sgy5W+7S7RLfQlPr4APIX1MSs+w8HzCivSlp6ue2te76VcGqQZh5X7rDA3n34TC30FsRO0/tOoteqOUXqrSaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mati\\source\\repos\\DSSD-TP3\\MercadoUNLa\\MercadoUNLa.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mati\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
