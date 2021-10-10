@@ -5940,23 +5940,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mati\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Nicolas\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mati\\source\\repos\\DSSD-TP3\\ApiRestMercadoUNLa\\ApiRestMercadoUNLa.csproj",
+      "projectUniqueName": "C:\\Users\\Nicolas\\source\\repos\\DSSD-TP3\\ApiRestMercadoUNLa\\ApiRestMercadoUNLa.csproj",
       "projectName": "ApiRestMercadoUNLa",
-      "projectPath": "C:\\Users\\Mati\\source\\repos\\DSSD-TP3\\ApiRestMercadoUNLa\\ApiRestMercadoUNLa.csproj",
-      "packagesPath": "C:\\Users\\Mati\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mati\\source\\repos\\DSSD-TP3\\ApiRestMercadoUNLa\\obj\\",
+      "projectPath": "C:\\Users\\Nicolas\\source\\repos\\DSSD-TP3\\ApiRestMercadoUNLa\\ApiRestMercadoUNLa.csproj",
+      "packagesPath": "C:\\Users\\Nicolas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Nicolas\\source\\repos\\DSSD-TP3\\ApiRestMercadoUNLa\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Mati\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Nicolas\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5968,6 +5964,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -5979,6 +5976,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
@@ -6017,7 +6015,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

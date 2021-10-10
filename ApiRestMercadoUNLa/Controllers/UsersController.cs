@@ -23,7 +23,16 @@ namespace ApiRestMercadoUNLa.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<User>>> GetUsers()
         {
-            return await _userContext.Users.ToListAsync();
+            var x = new List<User>();
+
+            try
+            {
+                x = await _userContext.Users.ToListAsync();
+            }
+            catch (Exception ex) {
+                string exs = ex.Message;
+            }
+            return x;
         }
         //peticion tipo GET a api/users/4
         [HttpGet("{id}")]

@@ -1,2 +1,2 @@
-PM> add-migration MigracionInicial
-PM> update-database
+PM> Add-Migration ProductoMigration -context <NombreContext>
+PM> update-database -context <NombreContext>
