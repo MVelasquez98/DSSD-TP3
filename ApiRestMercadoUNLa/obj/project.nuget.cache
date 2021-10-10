@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "PMrIxWx4iTpxD1UAyOO0EW1lAZ25gTt4wEAMfnPFRt1DyAe8x17uiv0oPr4VBJZuiOmUK5XUxMbSaeOccmhB1w==",
+  "dgSpecHash": "we9hXiEkyHV8pNsZOZYkQWOIaFsbNQEycdTecVX5M4iyOdsj3dWQxOZz/z77KPSvJEtClnxciKYBhEzXCuH0rQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Mati\\source\\repos\\DSSD-TP3\\ApiRestMercadoUNLa\\ApiRestMercadoUNLa.csproj",
   "expectedPackageFiles": [
@@ -34,6 +34,7 @@
     "C:\\Users\\Mati\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Mati\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
     "C:\\Users\\Mati\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Mati\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
     "C:\\Users\\Mati\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\Mati\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\newtonsoft.json\\10.0.1\\newtonsoft.json.10.0.1.nupkg.sha512",

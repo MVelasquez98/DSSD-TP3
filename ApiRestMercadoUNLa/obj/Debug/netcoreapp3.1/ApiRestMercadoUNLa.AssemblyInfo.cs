@@ -11,6 +11,7 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("7dfd0e87-512f-4a2e-8c79-47e3a8200dc4")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiRestMercadoUNLa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
