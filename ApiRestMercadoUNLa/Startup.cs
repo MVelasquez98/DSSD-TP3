@@ -29,6 +29,7 @@ namespace ApiRestMercadoUNLa
         {
             //Contexto y conexion a la bd
             services.AddDbContext<UserContext>(options => options.UseSqlServer(Configuration.GetConnectionString("ConexionDB")));
+            services.AddDbContext<ProductoContext>(options => options.UseSqlServer(Configuration.GetConnectionString("ConexionDB")));
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
