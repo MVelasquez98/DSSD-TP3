@@ -24,7 +24,7 @@ namespace MercadoUNLa.Controllers
         public async Task<IActionResult> Index()
         {
             var httpClient = new HttpClient();
-            var json = await httpClient.GetStringAsync("https://localhost:44366/weatherforecast");
+            var json = await httpClient.GetStringAsync("https://localhost:44366/api/users");
             var contentList = JsonConvert.DeserializeObject<List<JObject>>(json);
             return View(contentList);
         }

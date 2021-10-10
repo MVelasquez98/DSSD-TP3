@@ -1,0 +1,10 @@
+C:\Users\Mati\source\repos\DSSD-TP3\BDMercadoUNLa\bin\Debug\BDMercadoUNLa.dacpac
+C:\Users\Mati\source\repos\DSSD-TP3\BDMercadoUNLa\bin\Debug\BDMercadoUNLa.dll
+C:\Users\Mati\source\repos\DSSD-TP3\BDMercadoUNLa\bin\Debug\BDMercadoUNLa.pdb
+C:\Users\Mati\source\repos\DSSD-TP3\BDMercadoUNLa\obj\Debug\BDMercadoUNLa.sqlprojAssemblyReference.cache
+C:\Users\Mati\source\repos\DSSD-TP3\BDMercadoUNLa\obj\Debug\Model.xml
+C:\Users\Mati\source\repos\DSSD-TP3\BDMercadoUNLa\obj\Debug\refactor.xml
+C:\Users\Mati\source\repos\DSSD-TP3\BDMercadoUNLa\obj\Debug\postdeploy.sql
+C:\Users\Mati\source\repos\DSSD-TP3\BDMercadoUNLa\obj\Debug\predeploy.sql
+C:\Users\Mati\source\repos\DSSD-TP3\BDMercadoUNLa\obj\Debug\BDMercadoUNLa.dll
+C:\Users\Mati\source\repos\DSSD-TP3\BDMercadoUNLa\obj\Debug\BDMercadoUNLa.pdb
